@@ -1,0 +1,58 @@
+*{
+    margin: 2px;
+}
+
+body{
+    color: #775548;
+    font-family: Verdana, Arial, sans-serif;
+    font-size: 16px;
+}
+
+h2{
+    font-size: 2.5rem;
+    margin: 25px 0 30px 2px;
+}
+
+section ul, ol, p{
+    margin: 20px 0;
+}
+
+section ul a{
+    color: #EF6A1D;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.list{
+    margin: 0;
+}
+
+h3{
+    background-color: #775548;
+    color: #E1D4CF;
+    font-size: 1.5rem;
+}
+
+.choose{
+    background-color: #775548;
+    color: #D8B03B;
+    font-size: 1.5rem;
+}
+
+.notable{
+    font-weight: bold;
+}
+
+.news-1{
+    color: #2DA8C2;
+    text-decoration: underline;
+}
+
+.news-2{
+    color: #EF4B51;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+
+

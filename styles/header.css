@@ -1,0 +1,24 @@
+.image{
+    height: auto;
+    width: 100%;
+}
+
+nav ul{
+    align-items: baseline;
+    display: flex;
+    flex-wrap: wrap ;
+    justify-content: flex-start;
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li{
+    margin: 0 0 0 2px;
+}
+
+nav a{
+    color: #EF6A1D;
+    font-size: 1.5rem;
+    font-weight: bold;
+    text-decoration: underline;
+}
